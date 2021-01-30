@@ -5,6 +5,7 @@ using Mavidian.DataConveyer.Entities.KeyVal;
 using Mavidian.DataConveyer.Logging;
 using Mavidian.DataConveyer.Orchestrators;
 using System;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -81,6 +82,7 @@ namespace DataConveyer_JsonHierarchy
 
       private ICluster ConvertFlatToByYear(ICluster inClstr)
       {  //each cluster contains flat records for a state; all records in a cluster get collapsed into a single record
+         // Fields in DataByYear are: State, DataByYear[0].2009.Population, DataByYear[0].2009.Drivers, ..., DataByYear[11].2020.Vehicles  (counts/years may vary)
          var outClstr = inClstr.GetEmptyClone();
          var outRec = inClstr[0].GetEmptyClone();  // a single output record for the state
          outRec.AddItem("State", inClstr[0]["State"]);
@@ -99,6 +101,7 @@ namespace DataConveyer_JsonHierarchy
 
       private IRecord ConvertByYearToByType(IRecord inRec)
       {  //here, there is a 1 to 1 relationship between input and output records (a record per state), so RecordBound transformes is used
+         // Fields in DataByType are: State, DataByType[0].Population.2009, DataByType[0].Population.2010, ...,  DataByType[0].Population.2020, DataByType[1].Drivers.2009, ..., DataByType[2].Vehicles.2020
          static string Get2ndToLastSegment(string key) => key.Split('.').Reverse().Skip(1).First();
          var outRec = inRec.GetEmptyClone();
          outRec.AddItem("State", inRec["State"]);
@@ -110,21 +113,42 @@ namespace DataConveyer_JsonHierarchy
          foreach (var itm in inRec.Items.Where(i => i.Key.EndsWith("Drivers")))
          {  //like above, no sort by year is needed here
             var year = Get2ndToLastSegment(itm.Key);
-            outRec.AddItem($"DataByType[0].Drivers.{year}", itm.Value);
+            outRec.AddItem($"DataByType[1].Drivers.{year}", itm.Value);
 
          }
          foreach (var itm in inRec.Items.Where(i => i.Key.EndsWith("Vehicles")))
          {  //neither is sort by year needed here
             var year = Get2ndToLastSegment(itm.Key);
-            outRec.AddItem($"DataByType[0].Vehicles.{year}", itm.Value);
+            outRec.AddItem($"DataByType[2].Vehicles.{year}", itm.Value);
          }
          return outRec;
       }
 
 
       private ICluster ConvertByTypeToFlat(ICluster inClstr)
-      {
-         throw new NotImplementedException();
+      { // here, single record clusters on intake will get expanded, so that there is one record per year
+         Debug.Assert(inClstr.Count == 1);
+         var inRec = inClstr[0];  // single record in input cluster
+         var outClstr = inClstr.GetEmptyClone();
+         var state = inRec["State"];
+
+         foreach (var yearGrp in inRec.Items.Where(i => i.Key != "State")
+                                            .GroupBy(i => i.Key.Split('.')
+                                            .Reverse().First()))  // year is last key segment
+         {
+            Debug.Assert(yearGrp.Count() == 3);  // Population, Drivers & Vehicles
+            var year = yearGrp.Key;
+            var outRec = inRec.GetEmptyClone();
+            outRec.AddItem("State", state);
+            outRec.AddItem("Year", year);
+            IItem AddItemToOutput(string key) => outRec.AddItem(key, yearGrp.FirstOrDefault(i => i.Key.Contains(key)).Value);
+            AddItemToOutput("Population");
+            AddItemToOutput("Drivers");
+            AddItemToOutput("Vehicles");
+            outClstr.AddRecord(outRec);
+         }
+
+         return outClstr;
       }
 
 
