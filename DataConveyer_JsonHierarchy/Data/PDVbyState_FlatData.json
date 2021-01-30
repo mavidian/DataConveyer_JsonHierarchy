@@ -1,0 +1,4286 @@
+[
+  {
+    "State": "Alabama",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "3782284",
+    "Vehicles": "4610850"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2010",
+    "Population": "4785514",
+    "Drivers": "3805751",
+    "Vehicles": "4653840"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2011",
+    "Population": "4799642",
+    "Drivers": "3798552",
+    "Vehicles": "4811940"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2012",
+    "Population": "4816632",
+    "Drivers": "3827522",
+    "Vehicles": "4844630"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2013",
+    "Population": "4831586",
+    "Drivers": "3859403",
+    "Vehicles": "4787220"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2014",
+    "Population": "4843737",
+    "Drivers": "3881542",
+    "Vehicles": "5366840"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2015",
+    "Population": "4854803",
+    "Drivers": "3907038",
+    "Vehicles": "5400419"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2016",
+    "Population": "4866824",
+    "Drivers": "3943082",
+    "Vehicles": "5468301"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2017",
+    "Population": "4877989",
+    "Drivers": "3954378",
+    "Vehicles": "5056073"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2018",
+    "Population": "4891628",
+    "Drivers": "3999057",
+    "Vehicles": "5300199"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2019",
+    "Population": "4907965",
+    "Drivers": "4026151",
+    "Vehicles": "5288208"
+  },
+  {
+    "State": "Alabama",
+    "Year": "2020",
+    "Population": "4921532",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Alaska",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "507759",
+    "Vehicles": "695282"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2010",
+    "Population": "713982",
+    "Drivers": "515239",
+    "Vehicles": "710444"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2011",
+    "Population": "722349",
+    "Drivers": "521280",
+    "Vehicles": "757954"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2012",
+    "Population": "730810",
+    "Drivers": "526371",
+    "Vehicles": "775245"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2013",
+    "Population": "737626",
+    "Drivers": "528873",
+    "Vehicles": "785825"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2014",
+    "Population": "737075",
+    "Drivers": "531744",
+    "Vehicles": "800433"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2015",
+    "Population": "738430",
+    "Drivers": "533227",
+    "Vehicles": "815122"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2016",
+    "Population": "742575",
+    "Drivers": "534585",
+    "Vehicles": "794614"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2017",
+    "Population": "740983",
+    "Drivers": "534585",
+    "Vehicles": "804505"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2018",
+    "Population": "736624",
+    "Drivers": "536033",
+    "Vehicles": "803684"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2019",
+    "Population": "733603",
+    "Drivers": "529281",
+    "Vehicles": "795275"
+  },
+  {
+    "State": "Alaska",
+    "Year": "2020",
+    "Population": "731158",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Arizona",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "4403390",
+    "Vehicles": "4357630"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2010",
+    "Population": "6407342",
+    "Drivers": "4443647",
+    "Vehicles": "4320010"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2011",
+    "Population": "6473416",
+    "Drivers": "4592398",
+    "Vehicles": "5109250"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2012",
+    "Population": "6556344",
+    "Drivers": "4697579",
+    "Vehicles": "5163010"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2013",
+    "Population": "6634690",
+    "Drivers": "4791450",
+    "Vehicles": "5381050"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2014",
+    "Population": "6732873",
+    "Drivers": "4881801",
+    "Vehicles": "5588010"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2015",
+    "Population": "6832810",
+    "Drivers": "4978762",
+    "Vehicles": "5630647"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2016",
+    "Population": "6944767",
+    "Drivers": "5082305",
+    "Vehicles": "5786891"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2017",
+    "Population": "7048088",
+    "Drivers": "5164966",
+    "Vehicles": "5964434"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2018",
+    "Population": "7164228",
+    "Drivers": "5284970",
+    "Vehicles": "5806313"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2019",
+    "Population": "7291843",
+    "Drivers": "5369210",
+    "Vehicles": "5982559"
+  },
+  {
+    "State": "Arizona",
+    "Year": "2020",
+    "Population": "7421401",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "2065065",
+    "Vehicles": "2037400"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2010",
+    "Population": "2921998",
+    "Drivers": "2077806",
+    "Vehicles": "2073410"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2011",
+    "Population": "2941038",
+    "Drivers": "1956091",
+    "Vehicles": "2448310"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2012",
+    "Population": "2952876",
+    "Drivers": "2199164",
+    "Vehicles": "2479920"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2013",
+    "Population": "2960459",
+    "Drivers": "2097201",
+    "Vehicles": "2417960"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2014",
+    "Population": "2968759",
+    "Drivers": "2111873",
+    "Vehicles": "2778660"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2015",
+    "Population": "2979732",
+    "Drivers": "2119578",
+    "Vehicles": "2772214"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2016",
+    "Population": "2991815",
+    "Drivers": "2391103",
+    "Vehicles": "2808138"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2017",
+    "Population": "3003855",
+    "Drivers": "2417464",
+    "Vehicles": "2833697"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2018",
+    "Population": "3012161",
+    "Drivers": "2145334",
+    "Vehicles": "2817145"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2019",
+    "Population": "3020985",
+    "Drivers": "2153929",
+    "Vehicles": "2902111"
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2020",
+    "Population": "3030522",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "California",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "23680643",
+    "Vehicles": "34433210"
+  },
+  {
+    "State": "California",
+    "Year": "2010",
+    "Population": "37319550",
+    "Drivers": "23753441",
+    "Vehicles": "31014130"
+  },
+  {
+    "State": "California",
+    "Year": "2011",
+    "Population": "37636311",
+    "Drivers": "23856600",
+    "Vehicles": "29176700"
+  },
+  {
+    "State": "California",
+    "Year": "2012",
+    "Population": "37944551",
+    "Drivers": "24200997",
+    "Vehicles": "27702150"
+  },
+  {
+    "State": "California",
+    "Year": "2013",
+    "Population": "38253768",
+    "Drivers": "24390236",
+    "Vehicles": "28074980"
+  },
+  {
+    "State": "California",
+    "Year": "2014",
+    "Population": "38586706",
+    "Drivers": "24813346",
+    "Vehicles": "28686650"
+  },
+  {
+    "State": "California",
+    "Year": "2015",
+    "Population": "38904296",
+    "Drivers": "25532920",
+    "Vehicles": "29424012"
+  },
+  {
+    "State": "California",
+    "Year": "2016",
+    "Population": "39149186",
+    "Drivers": "26199436",
+    "Vehicles": "30221033"
+  },
+  {
+    "State": "California",
+    "Year": "2017",
+    "Population": "39337785",
+    "Drivers": "26777132",
+    "Vehicles": "30795141"
+  },
+  {
+    "State": "California",
+    "Year": "2018",
+    "Population": "39437463",
+    "Drivers": "27039400",
+    "Vehicles": "31022328"
+  },
+  {
+    "State": "California",
+    "Year": "2019",
+    "Population": "39437610",
+    "Drivers": "27213650",
+    "Vehicles": "31247270"
+  },
+  {
+    "State": "California",
+    "Year": "2020",
+    "Population": "39368078",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Colorado",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "3704561",
+    "Vehicles": "1429470"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2010",
+    "Population": "5047539",
+    "Drivers": "3779273",
+    "Vehicles": "4180300"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2011",
+    "Population": "5121900",
+    "Drivers": "3669816",
+    "Vehicles": "4332250"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2012",
+    "Population": "5193660",
+    "Drivers": "3807673",
+    "Vehicles": "4561900"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2013",
+    "Population": "5270774",
+    "Drivers": "3837488",
+    "Vehicles": "4683410"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2014",
+    "Population": "5352637",
+    "Drivers": "3883362",
+    "Vehicles": "4820620"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2015",
+    "Population": "5454328",
+    "Drivers": "3974521",
+    "Vehicles": "5005172"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2016",
+    "Population": "5543844",
+    "Drivers": "4066580",
+    "Vehicles": "5116341"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2017",
+    "Population": "5617421",
+    "Drivers": "4156138",
+    "Vehicles": "5259960"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2018",
+    "Population": "5697155",
+    "Drivers": "4244713",
+    "Vehicles": "5356018"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2019",
+    "Population": "5758486",
+    "Drivers": "4235384",
+    "Vehicles": "5412404"
+  },
+  {
+    "State": "Colorado",
+    "Year": "2020",
+    "Population": "5807719",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "2916143",
+    "Vehicles": "3071580"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2010",
+    "Population": "3579173",
+    "Drivers": "2934576",
+    "Vehicles": "3082010"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2011",
+    "Population": "3588632",
+    "Drivers": "2986267",
+    "Vehicles": "2828790"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2012",
+    "Population": "3595211",
+    "Drivers": "2485708",
+    "Vehicles": "2706460"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2013",
+    "Population": "3595792",
+    "Drivers": "2534090",
+    "Vehicles": "2855540"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2014",
+    "Population": "3595697",
+    "Drivers": "2542588",
+    "Vehicles": "2866460"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2015",
+    "Population": "3588561",
+    "Drivers": "2566673",
+    "Vehicles": "2841764"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2016",
+    "Population": "3579830",
+    "Drivers": "2611007",
+    "Vehicles": "2841842"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2017",
+    "Population": "3575324",
+    "Drivers": "2586994",
+    "Vehicles": "2826350"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2018",
+    "Population": "3574561",
+    "Drivers": "2605612",
+    "Vehicles": "2879802"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2019",
+    "Population": "3566022",
+    "Drivers": "2608061",
+    "Vehicles": "2878548"
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2020",
+    "Population": "3557006",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Delaware",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "699745",
+    "Vehicles": "843357"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2010",
+    "Population": "899647",
+    "Drivers": "695036",
+    "Vehicles": "799012"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2011",
+    "Population": "907590",
+    "Drivers": "716109",
+    "Vehicles": "929415"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2012",
+    "Population": "915518",
+    "Drivers": "720290",
+    "Vehicles": "943642"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2013",
+    "Population": "924062",
+    "Drivers": "723657",
+    "Vehicles": "947442"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2014",
+    "Population": "933131",
+    "Drivers": "732349",
+    "Vehicles": "957669"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2015",
+    "Population": "942065",
+    "Drivers": "742524",
+    "Vehicles": "964316"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2016",
+    "Population": "949989",
+    "Drivers": "756328",
+    "Vehicles": "1003840"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2017",
+    "Population": "957942",
+    "Drivers": "770512",
+    "Vehicles": "970733"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2018",
+    "Population": "966985",
+    "Drivers": "786504",
+    "Vehicles": "1008468"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2019",
+    "Population": "976668",
+    "Drivers": "812529",
+    "Vehicles": "1016927"
+  },
+  {
+    "State": "Delaware",
+    "Year": "2020",
+    "Population": "986809",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "376086",
+    "Vehicles": "217648"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2010",
+    "Population": "605282",
+    "Drivers": "384940",
+    "Vehicles": "211653"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2011",
+    "Population": "620290",
+    "Drivers": "395442",
+    "Vehicles": "316231"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2012",
+    "Population": "635737",
+    "Drivers": "400993",
+    "Vehicles": "322350"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2013",
+    "Population": "651559",
+    "Drivers": "405555",
+    "Vehicles": "332773"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2014",
+    "Population": "663603",
+    "Drivers": "419896",
+    "Vehicles": "334331"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2015",
+    "Population": "677014",
+    "Drivers": "455602",
+    "Vehicles": "322929"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2016",
+    "Population": "687576",
+    "Drivers": "489831",
+    "Vehicles": "337100"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2017",
+    "Population": "697079",
+    "Drivers": "521056",
+    "Vehicles": "346016"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2018",
+    "Population": "704147",
+    "Drivers": "527731",
+    "Vehicles": "351933"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2019",
+    "Population": "708253",
+    "Drivers": "535579",
+    "Vehicles": "350463"
+  },
+  {
+    "State": "District of Columbia",
+    "Year": "2020",
+    "Population": "712816",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Florida",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "14005066",
+    "Vehicles": "15314760"
+  },
+  {
+    "State": "Florida",
+    "Year": "2010",
+    "Population": "18846143",
+    "Drivers": "13949726",
+    "Vehicles": "14372810"
+  },
+  {
+    "State": "Florida",
+    "Year": "2011",
+    "Population": "19055607",
+    "Drivers": "13882423",
+    "Vehicles": "15469190"
+  },
+  {
+    "State": "Florida",
+    "Year": "2012",
+    "Population": "19302016",
+    "Drivers": "13896581",
+    "Vehicles": "15665990"
+  },
+  {
+    "State": "Florida",
+    "Year": "2013",
+    "Population": "19551678",
+    "Drivers": "13670441",
+    "Vehicles": "15131740"
+  },
+  {
+    "State": "Florida",
+    "Year": "2014",
+    "Population": "19853880",
+    "Drivers": "13898347",
+    "Vehicles": "15504810"
+  },
+  {
+    "State": "Florida",
+    "Year": "2015",
+    "Population": "20219111",
+    "Drivers": "14262715",
+    "Vehicles": "16105008"
+  },
+  {
+    "State": "Florida",
+    "Year": "2016",
+    "Population": "20627237",
+    "Drivers": "14675160",
+    "Vehicles": "16600317"
+  },
+  {
+    "State": "Florida",
+    "Year": "2017",
+    "Population": "20977089",
+    "Drivers": "15076358",
+    "Vehicles": "16959269"
+  },
+  {
+    "State": "Florida",
+    "Year": "2018",
+    "Population": "21254926",
+    "Drivers": "15368695",
+    "Vehicles": "17496002"
+  },
+  {
+    "State": "Florida",
+    "Year": "2019",
+    "Population": "21492056",
+    "Drivers": "15560628",
+    "Vehicles": "17833720"
+  },
+  {
+    "State": "Florida",
+    "Year": "2020",
+    "Population": "21733312",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Georgia",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "6315035",
+    "Vehicles": "8507290"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2010",
+    "Population": "9712209",
+    "Drivers": "6507888",
+    "Vehicles": "7701940"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2011",
+    "Population": "9803630",
+    "Drivers": "6505690",
+    "Vehicles": "7533740"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2012",
+    "Population": "9903580",
+    "Drivers": "6581534",
+    "Vehicles": "7647000"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2013",
+    "Population": "9975592",
+    "Drivers": "6607016",
+    "Vehicles": "7780350"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2014",
+    "Population": "10071204",
+    "Drivers": "6650434",
+    "Vehicles": "8155110"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2015",
+    "Population": "10183353",
+    "Drivers": "6906191",
+    "Vehicles": "8137621"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2016",
+    "Population": "10308442",
+    "Drivers": "6975900",
+    "Vehicles": "8239779"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2017",
+    "Population": "10417031",
+    "Drivers": "7060344",
+    "Vehicles": "8442325"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2018",
+    "Population": "10519389",
+    "Drivers": "7168733",
+    "Vehicles": "8512550"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2019",
+    "Population": "10628020",
+    "Drivers": "7261266",
+    "Vehicles": "8594567"
+  },
+  {
+    "State": "Georgia",
+    "Year": "2020",
+    "Population": "10710017",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "889918",
+    "Vehicles": "895336"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2010",
+    "Population": "1364004",
+    "Drivers": "909407",
+    "Vehicles": "904467"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2011",
+    "Population": "1379562",
+    "Drivers": "911660",
+    "Vehicles": "1148040"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2012",
+    "Population": "1395199",
+    "Drivers": "915033",
+    "Vehicles": "1231740"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2013",
+    "Population": "1408822",
+    "Drivers": "915033",
+    "Vehicles": "1334690"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2014",
+    "Population": "1415335",
+    "Drivers": "902639",
+    "Vehicles": "1393260"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2015",
+    "Population": "1422999",
+    "Drivers": "909797",
+    "Vehicles": "1242319"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2016",
+    "Population": "1428885",
+    "Drivers": "931703",
+    "Vehicles": "1231728"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2017",
+    "Population": "1425763",
+    "Drivers": "951008",
+    "Vehicles": "1259541"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2018",
+    "Population": "1423102",
+    "Drivers": "948417",
+    "Vehicles": "1267385"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2019",
+    "Population": "1415615",
+    "Drivers": "943173",
+    "Vehicles": "1272361"
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2020",
+    "Population": "1407006",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Idaho",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "1055269",
+    "Vehicles": "1374970"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2010",
+    "Population": "1570819",
+    "Drivers": "1069542",
+    "Vehicles": "1324990"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2011",
+    "Population": "1584272",
+    "Drivers": "1083992",
+    "Vehicles": "1625200"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2012",
+    "Population": "1595910",
+    "Drivers": "1092977",
+    "Vehicles": "1644230"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2013",
+    "Population": "1612053",
+    "Drivers": "1111485",
+    "Vehicles": "1692460"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2014",
+    "Population": "1632248",
+    "Drivers": "1128497",
+    "Vehicles": "1762690"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2015",
+    "Population": "1652495",
+    "Drivers": "1135009",
+    "Vehicles": "1854019"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2016",
+    "Population": "1684036",
+    "Drivers": "1160922",
+    "Vehicles": "1842245"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2017",
+    "Population": "1719745",
+    "Drivers": "1190367",
+    "Vehicles": "1835903"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2018",
+    "Population": "1752074",
+    "Drivers": "1252535",
+    "Vehicles": "1879670"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2019",
+    "Population": "1789060",
+    "Drivers": "1252535",
+    "Vehicles": "1954528"
+  },
+  {
+    "State": "Idaho",
+    "Year": "2020",
+    "Population": "1826913",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Illinois",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "8301118",
+    "Vehicles": "9890870"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2010",
+    "Population": "12840545",
+    "Drivers": "8373969",
+    "Vehicles": "10078620"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2011",
+    "Population": "12867783",
+    "Drivers": "8373969",
+    "Vehicles": "10445210"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2012",
+    "Population": "12883029",
+    "Drivers": "8235745",
+    "Vehicles": "10131880"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2013",
+    "Population": "12895778",
+    "Drivers": "8261582",
+    "Vehicles": "10193440"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2014",
+    "Population": "12885092",
+    "Drivers": "8373565",
+    "Vehicles": "10393500"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2015",
+    "Population": "12859585",
+    "Drivers": "8462193",
+    "Vehicles": "10595254"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2016",
+    "Population": "12821709",
+    "Drivers": "8514644",
+    "Vehicles": "10277182"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2017",
+    "Population": "12779893",
+    "Drivers": "8529404",
+    "Vehicles": "10890760"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2018",
+    "Population": "12724685",
+    "Drivers": "8714788",
+    "Vehicles": "10588910"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2019",
+    "Population": "12667017",
+    "Drivers": "8546932",
+    "Vehicles": "10691947"
+  },
+  {
+    "State": "Illinois",
+    "Year": "2020",
+    "Population": "12587530",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Indiana",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "5550469",
+    "Vehicles": "5847590"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2010",
+    "Population": "6490555",
+    "Drivers": "5550469",
+    "Vehicles": "5698010"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2011",
+    "Population": "6517250",
+    "Drivers": "6569665",
+    "Vehicles": "6132770"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2012",
+    "Population": "6538989",
+    "Drivers": "5375973",
+    "Vehicles": "6004370"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2013",
+    "Population": "6570575",
+    "Drivers": "4500403",
+    "Vehicles": "5574030"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2014",
+    "Population": "6596019",
+    "Drivers": "4448099",
+    "Vehicles": "6012600"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2015",
+    "Population": "6611442",
+    "Drivers": "4467848",
+    "Vehicles": "6045114"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2016",
+    "Population": "6637898",
+    "Drivers": "4553259",
+    "Vehicles": "6140530"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2017",
+    "Population": "6662068",
+    "Drivers": "4553584",
+    "Vehicles": "6170034"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2018",
+    "Population": "6698481",
+    "Drivers": "4589405",
+    "Vehicles": "6190736"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2019",
+    "Population": "6731010",
+    "Drivers": "4589405",
+    "Vehicles": "6223460"
+  },
+  {
+    "State": "Indiana",
+    "Year": "2020",
+    "Population": "6754953",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Iowa",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "2145333",
+    "Vehicles": "3363110"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2010",
+    "Population": "3050819",
+    "Drivers": "2166759",
+    "Vehicles": "3312710"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2011",
+    "Population": "3066772",
+    "Drivers": "2191715",
+    "Vehicles": "3496580"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2012",
+    "Population": "3076844",
+    "Drivers": "2217304",
+    "Vehicles": "3511050"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2013",
+    "Population": "3093935",
+    "Drivers": "2143665",
+    "Vehicles": "3540760"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2014",
+    "Population": "3110643",
+    "Drivers": "2227950",
+    "Vehicles": "3596530"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2015",
+    "Population": "3122541",
+    "Drivers": "2224130",
+    "Vehicles": "3636898"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2016",
+    "Population": "3133210",
+    "Drivers": "2245640",
+    "Vehicles": "3676290"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2017",
+    "Population": "3143734",
+    "Drivers": "2246829",
+    "Vehicles": "3750077"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2018",
+    "Population": "3149900",
+    "Drivers": "2260271",
+    "Vehicles": "3691892"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2019",
+    "Population": "3159596",
+    "Drivers": "2274431",
+    "Vehicles": "3786328"
+  },
+  {
+    "State": "Iowa",
+    "Year": "2020",
+    "Population": "3163561",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Kansas",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "2045426",
+    "Vehicles": "2425260"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2010",
+    "Population": "2858266",
+    "Drivers": "2033092",
+    "Vehicles": "2436250"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2011",
+    "Population": "2869677",
+    "Drivers": "2025581",
+    "Vehicles": "2445970"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2012",
+    "Population": "2886024",
+    "Drivers": "2018029",
+    "Vehicles": "2449230"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2013",
+    "Population": "2894306",
+    "Drivers": "2017759",
+    "Vehicles": "2627850"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2014",
+    "Population": "2901861",
+    "Drivers": "2021271",
+    "Vehicles": "2542680"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2015",
+    "Population": "2910717",
+    "Drivers": "2028657",
+    "Vehicles": "2634856"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2016",
+    "Population": "2912977",
+    "Drivers": "2030025",
+    "Vehicles": "2649736"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2017",
+    "Population": "2910892",
+    "Drivers": "2029869",
+    "Vehicles": "2717873"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2018",
+    "Population": "2912748",
+    "Drivers": "2149430",
+    "Vehicles": "2684010"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2019",
+    "Population": "2912635",
+    "Drivers": "2154260",
+    "Vehicles": "2682337"
+  },
+  {
+    "State": "Kansas",
+    "Year": "2020",
+    "Population": "2913805",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "2939423",
+    "Vehicles": "3584500"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2010",
+    "Population": "4348464",
+    "Drivers": "2950191",
+    "Vehicles": "3589120"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2011",
+    "Population": "4370817",
+    "Drivers": "2959881",
+    "Vehicles": "3763030"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2012",
+    "Population": "4387865",
+    "Drivers": "2985234",
+    "Vehicles": "3670570"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2013",
+    "Population": "4406906",
+    "Drivers": "3019283",
+    "Vehicles": "4031750"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2014",
+    "Population": "4416992",
+    "Drivers": "3004919",
+    "Vehicles": "4148720"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2015",
+    "Population": "4429126",
+    "Drivers": "3021266",
+    "Vehicles": "4151982"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2016",
+    "Population": "4440306",
+    "Drivers": "3031447",
+    "Vehicles": "4224788"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2017",
+    "Population": "4455590",
+    "Drivers": "3019008",
+    "Vehicles": "4293205"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2018",
+    "Population": "4464273",
+    "Drivers": "3032530",
+    "Vehicles": "4368285"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2019",
+    "Population": "4472345",
+    "Drivers": "3030329",
+    "Vehicles": "4383223"
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2020",
+    "Population": "4477251",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "3086004",
+    "Vehicles": "4033410"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2010",
+    "Population": "4544635",
+    "Drivers": "3133631",
+    "Vehicles": "4086130"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2011",
+    "Population": "4576244",
+    "Drivers": "3186227",
+    "Vehicles": "4052600"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2012",
+    "Population": "4602067",
+    "Drivers": "2923744",
+    "Vehicles": "3889420"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2013",
+    "Population": "4626040",
+    "Drivers": "3278143",
+    "Vehicles": "3957170"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2014",
+    "Population": "4645938",
+    "Drivers": "3312630",
+    "Vehicles": "3886930"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2015",
+    "Population": "4666998",
+    "Drivers": "3357091",
+    "Vehicles": "3901432"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2016",
+    "Population": "4681346",
+    "Drivers": "3395095",
+    "Vehicles": "3904962"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2017",
+    "Population": "4673673",
+    "Drivers": "3425656",
+    "Vehicles": "3906812"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2018",
+    "Population": "4664450",
+    "Drivers": "3425435",
+    "Vehicles": "3885119"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2019",
+    "Population": "4658285",
+    "Drivers": "3435168",
+    "Vehicles": "3802746"
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2020",
+    "Population": "4645318",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Maine",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "1013533",
+    "Vehicles": "1055920"
+  },
+  {
+    "State": "Maine",
+    "Year": "2010",
+    "Population": "1327651",
+    "Drivers": "1019738",
+    "Vehicles": "1053840"
+  },
+  {
+    "State": "Maine",
+    "Year": "2011",
+    "Population": "1328473",
+    "Drivers": "1014826",
+    "Vehicles": "1171280"
+  },
+  {
+    "State": "Maine",
+    "Year": "2012",
+    "Population": "1328094",
+    "Drivers": "1008190",
+    "Vehicles": "1180090"
+  },
+  {
+    "State": "Maine",
+    "Year": "2013",
+    "Population": "1328543",
+    "Drivers": "1011385",
+    "Vehicles": "1199130"
+  },
+  {
+    "State": "Maine",
+    "Year": "2014",
+    "Population": "1331217",
+    "Drivers": "1018918",
+    "Vehicles": "1194660"
+  },
+  {
+    "State": "Maine",
+    "Year": "2015",
+    "Population": "1329098",
+    "Drivers": "1019879",
+    "Vehicles": "1104001"
+  },
+  {
+    "State": "Maine",
+    "Year": "2016",
+    "Population": "1332348",
+    "Drivers": "1021332",
+    "Vehicles": "1107674"
+  },
+  {
+    "State": "Maine",
+    "Year": "2017",
+    "Population": "1335743",
+    "Drivers": "1032703",
+    "Vehicles": "1094388"
+  },
+  {
+    "State": "Maine",
+    "Year": "2018",
+    "Population": "1340123",
+    "Drivers": "1040582",
+    "Vehicles": "1125588"
+  },
+  {
+    "State": "Maine",
+    "Year": "2019",
+    "Population": "1345770",
+    "Drivers": "1046129",
+    "Vehicles": "1130056"
+  },
+  {
+    "State": "Maine",
+    "Year": "2020",
+    "Population": "1350141",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Maryland",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "3904685",
+    "Vehicles": "4483600"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2010",
+    "Population": "5788784",
+    "Drivers": "3918305",
+    "Vehicles": "4557010"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2011",
+    "Population": "5840241",
+    "Drivers": "3856604",
+    "Vehicles": "3905630"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2012",
+    "Population": "5888375",
+    "Drivers": "4102154",
+    "Vehicles": "3982730"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2013",
+    "Population": "5925197",
+    "Drivers": "4140105",
+    "Vehicles": "3833530"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2014",
+    "Population": "5960064",
+    "Drivers": "4142997",
+    "Vehicles": "4052090"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2015",
+    "Population": "5988528",
+    "Drivers": "4185752",
+    "Vehicles": "4135158"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2016",
+    "Population": "6007014",
+    "Drivers": "4264875",
+    "Vehicles": "4178873"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2017",
+    "Population": "6028186",
+    "Drivers": "4329503",
+    "Vehicles": "4357598"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2018",
+    "Population": "6042153",
+    "Drivers": "4407973",
+    "Vehicles": "4204846"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2019",
+    "Population": "6054954",
+    "Drivers": "4463862",
+    "Vehicles": "4203994"
+  },
+  {
+    "State": "Maryland",
+    "Year": "2020",
+    "Population": "6055802",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "4629636",
+    "Vehicles": "5261800"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2010",
+    "Population": "6566440",
+    "Drivers": "4592500",
+    "Vehicles": "5333920"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2011",
+    "Population": "6614218",
+    "Drivers": "4683323",
+    "Vehicles": "5695330"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2012",
+    "Population": "6664269",
+    "Drivers": "4733936",
+    "Vehicles": "4949860"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2013",
+    "Population": "6715158",
+    "Drivers": "4765586",
+    "Vehicles": "4985450"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2014",
+    "Population": "6764864",
+    "Drivers": "4765586",
+    "Vehicles": "4994440"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2015",
+    "Population": "6797484",
+    "Drivers": "5040662",
+    "Vehicles": "5069601"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2016",
+    "Population": "6827280",
+    "Drivers": "5040662",
+    "Vehicles": "5069559"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2017",
+    "Population": "6863560",
+    "Drivers": "4935176",
+    "Vehicles": "5065221"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2018",
+    "Population": "6885720",
+    "Drivers": "4935176",
+    "Vehicles": "5061499"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2019",
+    "Population": "6894883",
+    "Drivers": "4950056",
+    "Vehicles": "5061260"
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2020",
+    "Population": "6893574",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Michigan",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "7082820",
+    "Vehicles": "7913120"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2010",
+    "Population": "9877597",
+    "Drivers": "7083107",
+    "Vehicles": "9286070"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2011",
+    "Population": "9883053",
+    "Drivers": "7059509",
+    "Vehicles": "9182850"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2012",
+    "Population": "9898289",
+    "Drivers": "7018713",
+    "Vehicles": "7798430"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2013",
+    "Population": "9914802",
+    "Drivers": "6986587",
+    "Vehicles": "8192370"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2014",
+    "Population": "9932033",
+    "Drivers": "7046433",
+    "Vehicles": "8126340"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2015",
+    "Population": "9934483",
+    "Drivers": "7104484",
+    "Vehicles": "8294108"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2016",
+    "Population": "9954117",
+    "Drivers": "7074674",
+    "Vehicles": "8332895"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2017",
+    "Population": "9976752",
+    "Drivers": "7095778",
+    "Vehicles": "8518097"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2018",
+    "Population": "9987286",
+    "Drivers": "7153645",
+    "Vehicles": "8386831"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2019",
+    "Population": "9984795",
+    "Drivers": "7141494",
+    "Vehicles": "8440065"
+  },
+  {
+    "State": "Michigan",
+    "Year": "2020",
+    "Population": "9966555",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "3245441",
+    "Vehicles": "4796100"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2010",
+    "Population": "5310934",
+    "Drivers": "3281463",
+    "Vehicles": "4847970"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2011",
+    "Population": "5346620",
+    "Drivers": "3306139",
+    "Vehicles": "4909630"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2012",
+    "Population": "5377500",
+    "Drivers": "3321760",
+    "Vehicles": "5099010"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2013",
+    "Population": "5414722",
+    "Drivers": "3330725",
+    "Vehicles": "5219490"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2014",
+    "Population": "5452665",
+    "Drivers": "3357468",
+    "Vehicles": "5223190"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2015",
+    "Population": "5484002",
+    "Drivers": "3351430",
+    "Vehicles": "5281269"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2016",
+    "Population": "5525360",
+    "Drivers": "3377910",
+    "Vehicles": "5358317"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2017",
+    "Population": "5569283",
+    "Drivers": "3394815",
+    "Vehicles": "5682653"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2018",
+    "Population": "5608762",
+    "Drivers": "3391057",
+    "Vehicles": "5404277"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2019",
+    "Population": "5640053",
+    "Drivers": "3391057",
+    "Vehicles": "5425885"
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2020",
+    "Population": "5657342",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "1930603",
+    "Vehicles": "2025690"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2010",
+    "Population": "2970615",
+    "Drivers": "1928487",
+    "Vehicles": "2015920"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2011",
+    "Population": "2979147",
+    "Drivers": "1926603",
+    "Vehicles": "2036520"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2012",
+    "Population": "2984599",
+    "Drivers": "1957980",
+    "Vehicles": "2052140"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2013",
+    "Population": "2989839",
+    "Drivers": "1968907",
+    "Vehicles": "2073540"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2014",
+    "Population": "2991892",
+    "Drivers": "1977679",
+    "Vehicles": "2067810"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2015",
+    "Population": "2990231",
+    "Drivers": "1988396",
+    "Vehicles": "2068853"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2016",
+    "Population": "2990595",
+    "Drivers": "2018862",
+    "Vehicles": "2067222"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2017",
+    "Population": "2990674",
+    "Drivers": "2053924",
+    "Vehicles": "2057476"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2018",
+    "Population": "2982879",
+    "Drivers": "2058036",
+    "Vehicles": "2067498"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2019",
+    "Population": "2978227",
+    "Drivers": "2058036",
+    "Vehicles": "2066681"
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2020",
+    "Population": "2966786",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Missouri",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "4217910",
+    "Vehicles": "4904200"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2010",
+    "Population": "5996089",
+    "Drivers": "4246249",
+    "Vehicles": "5153430"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2011",
+    "Population": "6011182",
+    "Drivers": "4277037",
+    "Vehicles": "5169990"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2012",
+    "Population": "6026027",
+    "Drivers": "4288488",
+    "Vehicles": "5684680"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2013",
+    "Population": "6042989",
+    "Drivers": "4280438",
+    "Vehicles": "5820660"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2014",
+    "Population": "6059130",
+    "Drivers": "4295224",
+    "Vehicles": "5332900"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2015",
+    "Population": "6075411",
+    "Drivers": "4213302",
+    "Vehicles": "5624005"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2016",
+    "Population": "6091384",
+    "Drivers": "4249579",
+    "Vehicles": "5684525"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2017",
+    "Population": "6111382",
+    "Drivers": "4274784",
+    "Vehicles": "5568736"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2018",
+    "Population": "6125986",
+    "Drivers": "4272960",
+    "Vehicles": "5498675"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2019",
+    "Population": "6140475",
+    "Drivers": "4274389",
+    "Vehicles": "5534289"
+  },
+  {
+    "State": "Missouri",
+    "Year": "2020",
+    "Population": "6151548",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Montana",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "737964",
+    "Vehicles": "924950"
+  },
+  {
+    "State": "Montana",
+    "Year": "2010",
+    "Population": "990730",
+    "Drivers": "743611",
+    "Vehicles": "925854"
+  },
+  {
+    "State": "Montana",
+    "Year": "2011",
+    "Population": "997518",
+    "Drivers": "752483",
+    "Vehicles": "1219160"
+  },
+  {
+    "State": "Montana",
+    "Year": "2012",
+    "Population": "1004168",
+    "Drivers": "757812",
+    "Vehicles": "1488610"
+  },
+  {
+    "State": "Montana",
+    "Year": "2013",
+    "Population": "1014158",
+    "Drivers": "766716",
+    "Vehicles": "1539930"
+  },
+  {
+    "State": "Montana",
+    "Year": "2014",
+    "Population": "1022657",
+    "Drivers": "768703",
+    "Vehicles": "1585830"
+  },
+  {
+    "State": "Montana",
+    "Year": "2015",
+    "Population": "1031495",
+    "Drivers": "781427",
+    "Vehicles": "1645227"
+  },
+  {
+    "State": "Montana",
+    "Year": "2016",
+    "Population": "1042137",
+    "Drivers": "797145",
+    "Vehicles": "1794732"
+  },
+  {
+    "State": "Montana",
+    "Year": "2017",
+    "Population": "1053862",
+    "Drivers": "807259",
+    "Vehicles": "1863918"
+  },
+  {
+    "State": "Montana",
+    "Year": "2018",
+    "Population": "1061818",
+    "Drivers": "806204",
+    "Vehicles": "1845338"
+  },
+  {
+    "State": "Montana",
+    "Year": "2019",
+    "Population": "1070123",
+    "Drivers": "811851",
+    "Vehicles": "1900806"
+  },
+  {
+    "State": "Montana",
+    "Year": "2020",
+    "Population": "1080577",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "1349295",
+    "Vehicles": "1793020"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2010",
+    "Population": "1829591",
+    "Drivers": "1351516",
+    "Vehicles": "1802500"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2011",
+    "Population": "1840914",
+    "Drivers": "1356377",
+    "Vehicles": "1886960"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2012",
+    "Population": "1853691",
+    "Drivers": "1363596",
+    "Vehicles": "1888480"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2013",
+    "Population": "1865813",
+    "Drivers": "1374529",
+    "Vehicles": "1891250"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2014",
+    "Population": "1879955",
+    "Drivers": "1383693",
+    "Vehicles": "1947630"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2015",
+    "Population": "1892059",
+    "Drivers": "1394301",
+    "Vehicles": "1981296"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2016",
+    "Population": "1906483",
+    "Drivers": "1404479",
+    "Vehicles": "1951766"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2017",
+    "Population": "1916998",
+    "Drivers": "1404479",
+    "Vehicles": "1965105"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2018",
+    "Population": "1925512",
+    "Drivers": "1420317",
+    "Vehicles": "1961309"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2019",
+    "Population": "1932571",
+    "Drivers": "1430818",
+    "Vehicles": "1968479"
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2020",
+    "Population": "1937552",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Nevada",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "1690431",
+    "Vehicles": "1397340"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2010",
+    "Population": "2702483",
+    "Drivers": "1691318",
+    "Vehicles": "1361670"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2011",
+    "Population": "2713114",
+    "Drivers": "1700829",
+    "Vehicles": "2152410"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2012",
+    "Population": "2744670",
+    "Drivers": "1728060",
+    "Vehicles": "2130330"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2013",
+    "Population": "2776956",
+    "Drivers": "1756095",
+    "Vehicles": "2203100"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2014",
+    "Population": "2818935",
+    "Drivers": "1796443",
+    "Vehicles": "2240500"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2015",
+    "Population": "2868531",
+    "Drivers": "1835511",
+    "Vehicles": "2316056"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2016",
+    "Population": "2919555",
+    "Drivers": "1872376",
+    "Vehicles": "2398659"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2017",
+    "Population": "2972097",
+    "Drivers": "1918305",
+    "Vehicles": "2455442"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2018",
+    "Population": "3030725",
+    "Drivers": "1983453",
+    "Vehicles": "2514338"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2019",
+    "Population": "3090771",
+    "Drivers": "2054421",
+    "Vehicles": "2546583"
+  },
+  {
+    "State": "Nevada",
+    "Year": "2020",
+    "Population": "3138259",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "1034329",
+    "Vehicles": "1212490"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2010",
+    "Population": "1316807",
+    "Drivers": "1037083",
+    "Vehicles": "1202970"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2011",
+    "Population": "1320444",
+    "Drivers": "1056889",
+    "Vehicles": "1278480"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2012",
+    "Population": "1324677",
+    "Drivers": "1064604",
+    "Vehicles": "1302440"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2013",
+    "Population": "1327272",
+    "Drivers": "1061433",
+    "Vehicles": "1408940"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2014",
+    "Population": "1334257",
+    "Drivers": "1071963",
+    "Vehicles": "1310190"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2015",
+    "Population": "1337480",
+    "Drivers": "1074766",
+    "Vehicles": "1296137"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2016",
+    "Population": "1343694",
+    "Drivers": "1096234",
+    "Vehicles": "1322682"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2017",
+    "Population": "1350395",
+    "Drivers": "1103624",
+    "Vehicles": "1319117"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2018",
+    "Population": "1355064",
+    "Drivers": "1161665",
+    "Vehicles": "1346318"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2019",
+    "Population": "1360783",
+    "Drivers": "1195211",
+    "Vehicles": "1363379"
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2020",
+    "Population": "1366275",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "5923538",
+    "Vehicles": "6113810"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2010",
+    "Population": "8799451",
+    "Drivers": "5952583",
+    "Vehicles": "6628080"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2011",
+    "Population": "8828552",
+    "Drivers": "5977458",
+    "Vehicles": "7939960"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2012",
+    "Population": "8845671",
+    "Drivers": "6039623",
+    "Vehicles": "7911470"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2013",
+    "Population": "8857821",
+    "Drivers": "6081386",
+    "Vehicles": "7061340"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2014",
+    "Population": "8867277",
+    "Drivers": "6152634",
+    "Vehicles": "6874100"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2015",
+    "Population": "8870312",
+    "Drivers": "6179318",
+    "Vehicles": "5938585"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2016",
+    "Population": "8873584",
+    "Drivers": "6238436",
+    "Vehicles": "5940997"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2017",
+    "Population": "8888147",
+    "Drivers": "6301363",
+    "Vehicles": "6057711"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2018",
+    "Population": "8891730",
+    "Drivers": "6342876",
+    "Vehicles": "6055389"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2019",
+    "Population": "8891258",
+    "Drivers": "6377413",
+    "Vehicles": "6033015"
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2020",
+    "Population": "8882371",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "1377983",
+    "Vehicles": "1620700"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2010",
+    "Population": "2064614",
+    "Drivers": "1405926",
+    "Vehicles": "1612490"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2011",
+    "Population": "2080707",
+    "Drivers": "1418641",
+    "Vehicles": "1772040"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2012",
+    "Population": "2087715",
+    "Drivers": "1430475",
+    "Vehicles": "1805790"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2013",
+    "Population": "2092833",
+    "Drivers": "1456500",
+    "Vehicles": "1882470"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2014",
+    "Population": "2090236",
+    "Drivers": "1444857",
+    "Vehicles": "1930710"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2015",
+    "Population": "2090071",
+    "Drivers": "1467782",
+    "Vehicles": "1823445"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2016",
+    "Population": "2092555",
+    "Drivers": "1521785",
+    "Vehicles": "1823961"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2017",
+    "Population": "2092844",
+    "Drivers": "1473262",
+    "Vehicles": "1740002"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2018",
+    "Population": "2093754",
+    "Drivers": "1458433",
+    "Vehicles": "1824217"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2019",
+    "Population": "2099634",
+    "Drivers": "1449711",
+    "Vehicles": "1825421"
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2020",
+    "Population": "2106319",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "New York",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "11329488",
+    "Vehicles": "11245210"
+  },
+  {
+    "State": "New York",
+    "Year": "2010",
+    "Population": "19399956",
+    "Drivers": "11285830",
+    "Vehicles": "10255100"
+  },
+  {
+    "State": "New York",
+    "Year": "2011",
+    "Population": "19499921",
+    "Drivers": "11210783",
+    "Vehicles": "10430560"
+  },
+  {
+    "State": "New York",
+    "Year": "2012",
+    "Population": "19574362",
+    "Drivers": "11248617",
+    "Vehicles": "10448740"
+  },
+  {
+    "State": "New York",
+    "Year": "2013",
+    "Population": "19626488",
+    "Drivers": "11210783",
+    "Vehicles": "10674140"
+  },
+  {
+    "State": "New York",
+    "Year": "2014",
+    "Population": "19653431",
+    "Drivers": "11318198",
+    "Vehicles": "10903620"
+  },
+  {
+    "State": "New York",
+    "Year": "2015",
+    "Population": "19657321",
+    "Drivers": "11689839",
+    "Vehicles": "10638765"
+  },
+  {
+    "State": "New York",
+    "Year": "2016",
+    "Population": "19636391",
+    "Drivers": "11947568",
+    "Vehicles": "11122392"
+  },
+  {
+    "State": "New York",
+    "Year": "2017",
+    "Population": "19593849",
+    "Drivers": "12185313",
+    "Vehicles": "10857455"
+  },
+  {
+    "State": "New York",
+    "Year": "2018",
+    "Population": "19544098",
+    "Drivers": "12194360",
+    "Vehicles": "11482229"
+  },
+  {
+    "State": "New York",
+    "Year": "2019",
+    "Population": "19463131",
+    "Drivers": "12194360",
+    "Vehicles": "11389158"
+  },
+  {
+    "State": "New York",
+    "Year": "2020",
+    "Population": "19336776",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "6504269",
+    "Vehicles": "6047240"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2010",
+    "Population": "9574586",
+    "Drivers": "6536601",
+    "Vehicles": "5742830"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2011",
+    "Population": "9658913",
+    "Drivers": "6569341",
+    "Vehicles": "6249590"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2012",
+    "Population": "9751810",
+    "Drivers": "6677693",
+    "Vehicles": "7792560"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2013",
+    "Population": "9846717",
+    "Drivers": "6822902",
+    "Vehicles": "7813850"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2014",
+    "Population": "9937295",
+    "Drivers": "7025333",
+    "Vehicles": "7876030"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2015",
+    "Population": "10037218",
+    "Drivers": "7160621",
+    "Vehicles": "7928973"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2016",
+    "Population": "10161802",
+    "Drivers": "7267042",
+    "Vehicles": "8270643"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2017",
+    "Population": "10275758",
+    "Drivers": "7389467",
+    "Vehicles": "8070717"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2018",
+    "Population": "10391358",
+    "Drivers": "7509231",
+    "Vehicles": "8210213"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2019",
+    "Population": "10501384",
+    "Drivers": "7620001",
+    "Vehicles": "8527388"
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2020",
+    "Population": "10600823",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "476561",
+    "Vehicles": "722071"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2010",
+    "Population": "674752",
+    "Drivers": "483097",
+    "Vehicles": "735644"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2011",
+    "Population": "685526",
+    "Drivers": "490146",
+    "Vehicles": "785866"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2012",
+    "Population": "702227",
+    "Drivers": "502807",
+    "Vehicles": "810355"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2013",
+    "Population": "723149",
+    "Drivers": "513838",
+    "Vehicles": "845109"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2014",
+    "Population": "738736",
+    "Drivers": "527541",
+    "Vehicles": "870731"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2015",
+    "Population": "755537",
+    "Drivers": "545027",
+    "Vehicles": "890803"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2016",
+    "Population": "756114",
+    "Drivers": "555935",
+    "Vehicles": "894954"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2017",
+    "Population": "756755",
+    "Drivers": "561667",
+    "Vehicles": "1056758"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2018",
+    "Population": "760062",
+    "Drivers": "561333",
+    "Vehicles": "899953"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2019",
+    "Population": "763724",
+    "Drivers": "556064",
+    "Vehicles": "903668"
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2020",
+    "Population": "765309",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Ohio",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "7937498",
+    "Vehicles": "11022130"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2010",
+    "Population": "11539449",
+    "Drivers": "7963372",
+    "Vehicles": "9800930"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2011",
+    "Population": "11545735",
+    "Drivers": "7982149",
+    "Vehicles": "10217280"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2012",
+    "Population": "11550971",
+    "Drivers": "8006183",
+    "Vehicles": "10116250"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2013",
+    "Population": "11579692",
+    "Drivers": "8030421",
+    "Vehicles": "10360370"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2014",
+    "Population": "11606573",
+    "Drivers": "7915907",
+    "Vehicles": "10453360"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2015",
+    "Population": "11622315",
+    "Drivers": "7923439",
+    "Vehicles": "10557323"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2016",
+    "Population": "11640060",
+    "Drivers": "7974951",
+    "Vehicles": "10686057"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2017",
+    "Population": "11665706",
+    "Drivers": "8011705",
+    "Vehicles": "10809247"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2018",
+    "Population": "11680892",
+    "Drivers": "8032665",
+    "Vehicles": "10913773"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2019",
+    "Population": "11696507",
+    "Drivers": "8032792",
+    "Vehicles": "10901279"
+  },
+  {
+    "State": "Ohio",
+    "Year": "2020",
+    "Population": "11693217",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "2320985",
+    "Vehicles": "3396400"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2010",
+    "Population": "3760014",
+    "Drivers": "2348718",
+    "Vehicles": "3357460"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2011",
+    "Population": "3788824",
+    "Drivers": "2370643",
+    "Vehicles": "3428690"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2012",
+    "Population": "3819320",
+    "Drivers": "2400358",
+    "Vehicles": "3439940"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2013",
+    "Population": "3853891",
+    "Drivers": "2418307",
+    "Vehicles": "3460010"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2014",
+    "Population": "3879187",
+    "Drivers": "2451972",
+    "Vehicles": "3517810"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2015",
+    "Population": "3910518",
+    "Drivers": "2621733",
+    "Vehicles": "2988512"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2016",
+    "Population": "3928143",
+    "Drivers": "2498178",
+    "Vehicles": "3737405"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2017",
+    "Population": "3933602",
+    "Drivers": "2505989",
+    "Vehicles": "3744178"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2018",
+    "Population": "3943488",
+    "Drivers": "2504253",
+    "Vehicles": "3699022"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2019",
+    "Population": "3960676",
+    "Drivers": "2522670",
+    "Vehicles": "3706624"
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2020",
+    "Population": "3980783",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Oregon",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "2841972",
+    "Vehicles": "3046370"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2010",
+    "Population": "3837614",
+    "Drivers": "2769734",
+    "Vehicles": "3050250"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2011",
+    "Population": "3872672",
+    "Drivers": "2773956",
+    "Vehicles": "3128120"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2012",
+    "Population": "3900102",
+    "Drivers": "2769757",
+    "Vehicles": "3527240"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2013",
+    "Population": "3924110",
+    "Drivers": "2773373",
+    "Vehicles": "3603830"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2014",
+    "Population": "3965447",
+    "Drivers": "2785446",
+    "Vehicles": "3417960"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2015",
+    "Population": "4018542",
+    "Drivers": "2808548",
+    "Vehicles": "3607482"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2016",
+    "Population": "4093271",
+    "Drivers": "2855746",
+    "Vehicles": "3811706"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2017",
+    "Population": "4147294",
+    "Drivers": "2910592",
+    "Vehicles": "4103451"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2018",
+    "Population": "4183538",
+    "Drivers": "2930702",
+    "Vehicles": "3942875"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2019",
+    "Population": "4216116",
+    "Drivers": "2930701",
+    "Vehicles": "3919157"
+  },
+  {
+    "State": "Oregon",
+    "Year": "2020",
+    "Population": "4241507",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "8687206",
+    "Vehicles": "9857310"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2010",
+    "Population": "12711406",
+    "Drivers": "8737162",
+    "Vehicles": "9990940"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2011",
+    "Population": "12747052",
+    "Drivers": "8796774",
+    "Vehicles": "10302980"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2012",
+    "Population": "12769123",
+    "Drivers": "8842587",
+    "Vehicles": "10471410"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2013",
+    "Population": "12779538",
+    "Drivers": "8896590",
+    "Vehicles": "10461110"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2014",
+    "Population": "12792392",
+    "Drivers": "8915641",
+    "Vehicles": "10504760"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2015",
+    "Population": "12789838",
+    "Drivers": "8942967",
+    "Vehicles": "10598694"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2016",
+    "Population": "12788468",
+    "Drivers": "8996815",
+    "Vehicles": "10748822"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2017",
+    "Population": "12794679",
+    "Drivers": "8964855",
+    "Vehicles": "10689206"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2018",
+    "Population": "12809107",
+    "Drivers": "8991370",
+    "Vehicles": "10727715"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2019",
+    "Population": "12798883",
+    "Drivers": "8987676",
+    "Vehicles": "10800315"
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2020",
+    "Population": "12783254",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "746032",
+    "Vehicles": "788623"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2010",
+    "Population": "1053994",
+    "Drivers": "747875",
+    "Vehicles": "782438"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2011",
+    "Population": "1053829",
+    "Drivers": "749706",
+    "Vehicles": "918823"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2012",
+    "Population": "1054893",
+    "Drivers": "749706",
+    "Vehicles": "854359"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2013",
+    "Population": "1055560",
+    "Drivers": "749232",
+    "Vehicles": "853152"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2014",
+    "Population": "1056511",
+    "Drivers": "748337",
+    "Vehicles": "864762"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2015",
+    "Population": "1056886",
+    "Drivers": "745470",
+    "Vehicles": "875097"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2016",
+    "Population": "1057816",
+    "Drivers": "753143",
+    "Vehicles": "876228"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2017",
+    "Population": "1056554",
+    "Drivers": "753202",
+    "Vehicles": "872814"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2018",
+    "Population": "1059338",
+    "Drivers": "756966",
+    "Vehicles": "872344"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2019",
+    "Population": "1058158",
+    "Drivers": "761046",
+    "Vehicles": "868942"
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2020",
+    "Population": "1057125",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "3268498",
+    "Vehicles": "3614400"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2010",
+    "Population": "4635846",
+    "Drivers": "3337247",
+    "Vehicles": "3660880"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2011",
+    "Population": "4672655",
+    "Drivers": "3408318",
+    "Vehicles": "3827210"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2012",
+    "Population": "4719027",
+    "Drivers": "3455931",
+    "Vehicles": "3896830"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2013",
+    "Population": "4766469",
+    "Drivers": "3536404",
+    "Vehicles": "3986570"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2014",
+    "Population": "4826858",
+    "Drivers": "3617535",
+    "Vehicles": "4017610"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2015",
+    "Population": "4896006",
+    "Drivers": "3683824",
+    "Vehicles": "4162651"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2016",
+    "Population": "4963031",
+    "Drivers": "3746681",
+    "Vehicles": "4324423"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2017",
+    "Population": "5027102",
+    "Drivers": "3810962",
+    "Vehicles": "4404100"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2018",
+    "Population": "5091702",
+    "Drivers": "3846069",
+    "Vehicles": "4457519"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2019",
+    "Population": "5157702",
+    "Drivers": "3877968",
+    "Vehicles": "4516143"
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2020",
+    "Population": "5218040",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "602165",
+    "Vehicles": "926168"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2010",
+    "Population": "816193",
+    "Drivers": "602275",
+    "Vehicles": "925548"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2011",
+    "Population": "823740",
+    "Drivers": "603258",
+    "Vehicles": "995423"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2012",
+    "Population": "833859",
+    "Drivers": "606779",
+    "Vehicles": "1003570"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2013",
+    "Population": "842751",
+    "Drivers": "603643",
+    "Vehicles": "1015170"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2014",
+    "Population": "849670",
+    "Drivers": "609908",
+    "Vehicles": "1032710"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2015",
+    "Population": "854663",
+    "Drivers": "655707",
+    "Vehicles": "1082289"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2016",
+    "Population": "863693",
+    "Drivers": "622663",
+    "Vehicles": "1246359"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2017",
+    "Population": "873732",
+    "Drivers": "628506",
+    "Vehicles": "1258356"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2018",
+    "Population": "879386",
+    "Drivers": "638428",
+    "Vehicles": "1269415"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2019",
+    "Population": "887127",
+    "Drivers": "638428",
+    "Vehicles": "1280969"
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2020",
+    "Population": "892717",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "4476539",
+    "Vehicles": "5139660"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2010",
+    "Population": "6355518",
+    "Drivers": "4418210",
+    "Vehicles": "5113910"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2011",
+    "Population": "6400298",
+    "Drivers": "4543759",
+    "Vehicles": "5302340"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2012",
+    "Population": "6455752",
+    "Drivers": "4573871",
+    "Vehicles": "5392660"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2013",
+    "Population": "6496943",
+    "Drivers": "4605100",
+    "Vehicles": "5451930"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2014",
+    "Population": "6544617",
+    "Drivers": "4613166",
+    "Vehicles": "5495650"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2015",
+    "Population": "6595354",
+    "Drivers": "4621401",
+    "Vehicles": "5612123"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2016",
+    "Population": "6651277",
+    "Drivers": "5197904",
+    "Vehicles": "5709923"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2017",
+    "Population": "6714748",
+    "Drivers": "5377653",
+    "Vehicles": "5800489"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2018",
+    "Population": "6778180",
+    "Drivers": "5422429",
+    "Vehicles": "5770874"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2019",
+    "Population": "6830325",
+    "Drivers": "5422429",
+    "Vehicles": "5817887"
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2020",
+    "Population": "6886834",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Texas",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "15374063",
+    "Vehicles": "18208170"
+  },
+  {
+    "State": "Texas",
+    "Year": "2010",
+    "Population": "25241897",
+    "Drivers": "15157650",
+    "Vehicles": "17193560"
+  },
+  {
+    "State": "Texas",
+    "Year": "2011",
+    "Population": "25645504",
+    "Drivers": "15122518",
+    "Vehicles": "19617060"
+  },
+  {
+    "State": "Texas",
+    "Year": "2012",
+    "Population": "26084120",
+    "Drivers": "15252192",
+    "Vehicles": "20238120"
+  },
+  {
+    "State": "Texas",
+    "Year": "2013",
+    "Population": "26479646",
+    "Drivers": "15447273",
+    "Vehicles": "20171140"
+  },
+  {
+    "State": "Texas",
+    "Year": "2014",
+    "Population": "26963092",
+    "Drivers": "15648733",
+    "Vehicles": "20877030"
+  },
+  {
+    "State": "Texas",
+    "Year": "2015",
+    "Population": "27468531",
+    "Drivers": "15879876",
+    "Vehicles": "21864841"
+  },
+  {
+    "State": "Texas",
+    "Year": "2016",
+    "Population": "27914064",
+    "Drivers": "15879876",
+    "Vehicles": "21766166"
+  },
+  {
+    "State": "Texas",
+    "Year": "2017",
+    "Population": "28291024",
+    "Drivers": "17099340",
+    "Vehicles": "22130765"
+  },
+  {
+    "State": "Texas",
+    "Year": "2018",
+    "Population": "28624564",
+    "Drivers": "17370383",
+    "Vehicles": "22186241"
+  },
+  {
+    "State": "Texas",
+    "Year": "2019",
+    "Population": "28986794",
+    "Drivers": "17822760",
+    "Vehicles": "23007146"
+  },
+  {
+    "State": "Texas",
+    "Year": "2020",
+    "Population": "29360759",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Utah",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "1720015",
+    "Vehicles": "2453880"
+  },
+  {
+    "State": "Utah",
+    "Year": "2010",
+    "Population": "2775413",
+    "Drivers": "1659835",
+    "Vehicles": "2654720"
+  },
+  {
+    "State": "Utah",
+    "Year": "2011",
+    "Population": "2814797",
+    "Drivers": "1747487",
+    "Vehicles": "1883410"
+  },
+  {
+    "State": "Utah",
+    "Year": "2012",
+    "Population": "2854146",
+    "Drivers": "1788822",
+    "Vehicles": "1981340"
+  },
+  {
+    "State": "Utah",
+    "Year": "2013",
+    "Population": "2898773",
+    "Drivers": "1661219",
+    "Vehicles": "2060510"
+  },
+  {
+    "State": "Utah",
+    "Year": "2014",
+    "Population": "2938327",
+    "Drivers": "1425703",
+    "Vehicles": "2150570"
+  },
+  {
+    "State": "Utah",
+    "Year": "2015",
+    "Population": "2983626",
+    "Drivers": "1913564",
+    "Vehicles": "2229193"
+  },
+  {
+    "State": "Utah",
+    "Year": "2016",
+    "Population": "3044241",
+    "Drivers": "1960366",
+    "Vehicles": "2317282"
+  },
+  {
+    "State": "Utah",
+    "Year": "2017",
+    "Population": "3103540",
+    "Drivers": "1995377",
+    "Vehicles": "2355773"
+  },
+  {
+    "State": "Utah",
+    "Year": "2018",
+    "Population": "3155153",
+    "Drivers": "2030644",
+    "Vehicles": "2372800"
+  },
+  {
+    "State": "Utah",
+    "Year": "2019",
+    "Population": "3203383",
+    "Drivers": "2121099",
+    "Vehicles": "2430275"
+  },
+  {
+    "State": "Utah",
+    "Year": "2020",
+    "Population": "3249879",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Vermont",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "506977",
+    "Vehicles": "557370"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2010",
+    "Population": "625886",
+    "Drivers": "513481",
+    "Vehicles": "566650"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2011",
+    "Population": "627197",
+    "Drivers": "521666",
+    "Vehicles": "605054"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2012",
+    "Population": "626361",
+    "Drivers": "529501",
+    "Vehicles": "606941"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2013",
+    "Population": "626603",
+    "Drivers": "543057",
+    "Vehicles": "611789"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2014",
+    "Population": "625693",
+    "Drivers": "545312",
+    "Vehicles": "612437"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2015",
+    "Population": "625810",
+    "Drivers": "548799",
+    "Vehicles": "655347"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2016",
+    "Population": "624366",
+    "Drivers": "553670",
+    "Vehicles": "615950"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2017",
+    "Population": "625132",
+    "Drivers": "560247",
+    "Vehicles": "621608"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2018",
+    "Population": "624802",
+    "Drivers": "564892",
+    "Vehicles": "619694"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2019",
+    "Population": "624046",
+    "Drivers": "564894",
+    "Vehicles": "620428"
+  },
+  {
+    "State": "Vermont",
+    "Year": "2020",
+    "Population": "623347",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Virginia",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "5347745",
+    "Vehicles": "6301840"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2010",
+    "Population": "8024004",
+    "Drivers": "5402347",
+    "Vehicles": "6148790"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2011",
+    "Population": "8102437",
+    "Drivers": "5467045",
+    "Vehicles": "6998390"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2012",
+    "Population": "8187456",
+    "Drivers": "5538480",
+    "Vehicles": "7116790"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2013",
+    "Population": "8255861",
+    "Drivers": "5602765",
+    "Vehicles": "7051020"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2014",
+    "Population": "8315430",
+    "Drivers": "5769063",
+    "Vehicles": "7160100"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2015",
+    "Population": "8367303",
+    "Drivers": "5820209",
+    "Vehicles": "7238905"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2016",
+    "Population": "8417651",
+    "Drivers": "5912048",
+    "Vehicles": "7301081"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2017",
+    "Population": "8471011",
+    "Drivers": "5926430",
+    "Vehicles": "7514484"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2018",
+    "Population": "8510920",
+    "Drivers": "5929031",
+    "Vehicles": "7604646"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2019",
+    "Population": "8556642",
+    "Drivers": "5888196",
+    "Vehicles": "7647692"
+  },
+  {
+    "State": "Virginia",
+    "Year": "2020",
+    "Population": "8590563",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Washington",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "5026521",
+    "Vehicles": "5580670"
+  },
+  {
+    "State": "Washington",
+    "Year": "2010",
+    "Population": "6743009",
+    "Drivers": "5106367",
+    "Vehicles": "4682790"
+  },
+  {
+    "State": "Washington",
+    "Year": "2011",
+    "Population": "6827479",
+    "Drivers": "5178789",
+    "Vehicles": "5880790"
+  },
+  {
+    "State": "Washington",
+    "Year": "2012",
+    "Population": "6898599",
+    "Drivers": "5227889",
+    "Vehicles": "5849950"
+  },
+  {
+    "State": "Washington",
+    "Year": "2013",
+    "Population": "6966252",
+    "Drivers": "5301630",
+    "Vehicles": "6392840"
+  },
+  {
+    "State": "Washington",
+    "Year": "2014",
+    "Population": "7057531",
+    "Drivers": "5401139",
+    "Vehicles": "6405480"
+  },
+  {
+    "State": "Washington",
+    "Year": "2015",
+    "Population": "7167287",
+    "Drivers": "5516134",
+    "Vehicles": "6725467"
+  },
+  {
+    "State": "Washington",
+    "Year": "2016",
+    "Population": "7299961",
+    "Drivers": "5635715",
+    "Vehicles": "7047689"
+  },
+  {
+    "State": "Washington",
+    "Year": "2017",
+    "Population": "7427951",
+    "Drivers": "5768281",
+    "Vehicles": "7256196"
+  },
+  {
+    "State": "Washington",
+    "Year": "2018",
+    "Population": "7526793",
+    "Drivers": "5909967",
+    "Vehicles": "7152413"
+  },
+  {
+    "State": "Washington",
+    "Year": "2019",
+    "Population": "7614024",
+    "Drivers": "5711136",
+    "Vehicles": "7377028"
+  },
+  {
+    "State": "Washington",
+    "Year": "2020",
+    "Population": "7693612",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "1328992",
+    "Vehicles": "1412480"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2010",
+    "Population": "1854265",
+    "Drivers": "1206026",
+    "Vehicles": "1435520"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2011",
+    "Population": "1856606",
+    "Drivers": "1198837",
+    "Vehicles": "1458220"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2012",
+    "Population": "1857446",
+    "Drivers": "1241586",
+    "Vehicles": "1458800"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2013",
+    "Population": "1854768",
+    "Drivers": "1177136",
+    "Vehicles": "1453400"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2014",
+    "Population": "1850569",
+    "Drivers": "1171907",
+    "Vehicles": "1553190"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2015",
+    "Population": "1843332",
+    "Drivers": "1167346",
+    "Vehicles": "1613345"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2016",
+    "Population": "1832435",
+    "Drivers": "1159348",
+    "Vehicles": "1704825"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2017",
+    "Population": "1818683",
+    "Drivers": "1148786",
+    "Vehicles": "1691237"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2018",
+    "Population": "1805953",
+    "Drivers": "1136775",
+    "Vehicles": "1693719"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2019",
+    "Population": "1795263",
+    "Drivers": "1130389",
+    "Vehicles": "1668113"
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2020",
+    "Population": "1784787",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "4105142",
+    "Vehicles": "4874320"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2010",
+    "Population": "5690538",
+    "Drivers": "4133377",
+    "Vehicles": "4967780"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2011",
+    "Population": "5705840",
+    "Drivers": "4147470",
+    "Vehicles": "5244200"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2012",
+    "Population": "5720825",
+    "Drivers": "4056649",
+    "Vehicles": "5215290"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2013",
+    "Population": "5738012",
+    "Drivers": "4171427",
+    "Vehicles": "5338760"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2014",
+    "Population": "5753199",
+    "Drivers": "4188194",
+    "Vehicles": "5340160"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2015",
+    "Population": "5762927",
+    "Drivers": "4194759",
+    "Vehicles": "5466581"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2016",
+    "Population": "5775170",
+    "Drivers": "4206770",
+    "Vehicles": "5564429"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2017",
+    "Population": "5793147",
+    "Drivers": "4234793",
+    "Vehicles": "5596635"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2018",
+    "Population": "5809319",
+    "Drivers": "4288171",
+    "Vehicles": "5683061"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2019",
+    "Population": "5824581",
+    "Drivers": "4296646",
+    "Vehicles": "5666400"
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2020",
+    "Population": "5832655",
+    "Drivers": "",
+    "Vehicles": ""
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2009",
+    "Population": "",
+    "Drivers": "410813",
+    "Vehicles": "652324"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2010",
+    "Population": "564531",
+    "Drivers": "419466",
+    "Vehicles": "663253"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2011",
+    "Population": "567491",
+    "Drivers": "421928",
+    "Vehicles": "798296"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2012",
+    "Population": "576656",
+    "Drivers": "421580",
+    "Vehicles": "799405"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2013",
+    "Population": "582620",
+    "Drivers": "421473",
+    "Vehicles": "830539"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2014",
+    "Population": "583159",
+    "Drivers": "423987",
+    "Vehicles": "820107"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2015",
+    "Population": "586389",
+    "Drivers": "422450",
+    "Vehicles": "814989"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2016",
+    "Population": "585243",
+    "Drivers": "421098",
+    "Vehicles": "855230"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2017",
+    "Population": "579994",
+    "Drivers": "422465",
+    "Vehicles": "819257"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2018",
+    "Population": "579054",
+    "Drivers": "419256",
+    "Vehicles": "837024"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2019",
+    "Population": "580116",
+    "Drivers": "424115",
+    "Vehicles": "843671"
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2020",
+    "Population": "582328",
+    "Drivers": "",
+    "Vehicles": ""
+  }
+]
