@@ -1,7 +1,7 @@
 # DataConveyer_JsonHierarchy
 
 DataConveyer_JsonHierarchy is a console application to demonstate some ways Data Conveyer can be used to
-transfor hierarchical JSON data. The application recognizes 3 alternative formats (JSON hierarchies) of the same data
+transform hierarchical JSON data. The application recognizes 3 alternative formats (JSON hierarchies) of the same data
 representing population, drivers and vehicles by US state by years:
 
 **Flat Data**
